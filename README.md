@@ -20,6 +20,16 @@ DISCORD_BOT_TOKEN='your-bot-token'
 
 This command will get random post from any subreddit. 
 Let's try  
+
 `!reddit random programmerhumor`
 
 ![image](/docs/images/ph.png)
+
+### `!reddit top subreddit`
+
+This command will get top post from any subreddit.
+Let's try
+
+`!reddit top images`
+
+![image](/docs/images/top.png)
