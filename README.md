@@ -22,4 +22,4 @@ This command will get random post from any subreddit.
 Let's try  
 `!reddit random programmerhumor`
 
-![image]('/docs/images/ph.png')
+![image](/docs/images/ph.png)
