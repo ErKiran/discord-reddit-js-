@@ -33,7 +33,7 @@ function formatEmbed(data, subreddit) {
     } = data;
 
     const embed = {
-      color: 0xff5700,
+      color: Math.floor(Math.random() * 16777214) + 1,
       author: {
         name: `r/${subreddit}`,
         url: `${REDDIT_URL}/${subreddit}`,
